@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
     "node-sass": "^9.0.0"
   }
 }
