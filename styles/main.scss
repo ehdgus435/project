@@ -1,8 +1,18 @@
-p {
+@import "./base/fonts";
+
+a {
   color: #cd2993;
-  display: block;
   text-transform: uppercase;
   font-weight: 600;
+}
+
+div {
+  color: blue;
+  transition: color 300ms ease-in-out;
+}
+
+div:hover {
+  color: aqua;
 }
 
 * {
